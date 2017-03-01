@@ -15,5 +15,7 @@
   "bugs": {
     "url": "https://github.com/davcs86/d3-polytree-searchpanel/issues"
   },
-  "homepage": "https://github.com/davcs86/d3-polytree-searchpanel#readme"
+  "homepage": "https://github.com/davcs86/d3-polytree-searchpanel#readme",
+  "devDependencies": {
+  }
 }
