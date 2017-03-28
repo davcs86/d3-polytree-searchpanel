@@ -17,6 +17,12 @@
   },
   "homepage": "https://github.com/davcs86/d3-polytree-searchpanel#readme",
   "devDependencies": {
-    "list.js": "^1.5.0"
+    "list.js": "^1.5.0",
+    "min-dom": "^0.2.0",
+    "css-loader": "^0.25.0",
+    "node-sass": "^3.13.0",
+    "sass-loader": "^4.0.2",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.3"
   }
 }
