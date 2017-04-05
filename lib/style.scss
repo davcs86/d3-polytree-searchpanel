@@ -2,7 +2,7 @@
   #pfdjs-searchpanel {
     .search{
       outline: none;
-      padding: 10px;
+      padding: 6px;
       border: 1px  solid #333;
       transition: border 0.3s;
       width: 300px;
@@ -18,13 +18,13 @@
         display: block;
         background-color: #eee;
         border-left: 4px solid #5990bd;
-        padding: 14px;
+        padding: 8px;
         margin: 2px 20px;
         text-align: left;
         h3 {
           margin: 0;
           color: #333;
-          font-size: 16px;
+          font-size: 15px;
         }
         p {
           margin: 0;
